@@ -6,3 +6,7 @@ matlab scripts to create individual functional regions-of-interest (fROIs) withi
 # Requirments
 
 Matlab (https://de.mathworks.com/products/matlab.html), SPM toolbox (https://www.fil.ion.ucl.ac.uk/spm/software/spm12/) REX toolbox (https://www.nitrc.org/projects/rex.
+
+# Reference
+
+If you want to use the code please cite Boch, M., Wagner, I.C., Karl, S., Huber, L.*, & Lamm, C.* (2023). Functionally analogous body- and animacy-responsive areas are present in the dog (Canis familiaris) and human occipito-temporal lobe. Communications Biology, doi: 10.1038/s42003-023-05014-7
